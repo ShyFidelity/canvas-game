@@ -1,0 +1,9 @@
+body {
+    background-image: url('./wavybg.png')
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    background-image: url('./doorwayrianbow.png');
+}
