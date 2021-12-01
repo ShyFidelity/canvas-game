@@ -1,5 +1,10 @@
 body {
-    background-image: url('./wavybg.png')
+    background-image: url('./wavybg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
+  background-position: center center;
+   
 }
 
 .container {
