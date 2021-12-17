@@ -1,6 +1,6 @@
 # canvas-game
 
-![rainbowpingpong](../style/rainbowpong.gif)
+![rainbowpingpong](./assets/STYLE/rainbowpong.gif)
 ## Canvas game created with help Mozilla.net
 
 ## This was one of the first projects outside of calss I did while attending Denver University's Full Stack Web Dev Boot Camp! 
